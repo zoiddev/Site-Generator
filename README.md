@@ -1,5 +1,5 @@
-# site-generator
+# Site generator
 
-Static-site-generator Boot.dev project.
+This is a simple static site generator written in Python. It takes a directory of markdown files and generates a static site from them.
 
-This project is a learning exercise from Boot.dev, focused on building a static site generator from scratch in Python.
+Guided project from Boot.dev
